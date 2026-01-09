@@ -1,9 +1,109 @@
-# 💫 About Me:
-I like building things that make sense.<br>Mostly working with React, Next.js, and Node.js.<br>Focused on projects, DSA, and becoming a better engineer every day.
+# Hi, I’m Arsenic 👋
 
+I build full-stack products that solve real problems.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/piyush-sharma-757585329) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:piyushsharmaa@yahoo.com) 
+I enjoy taking an idea, designing the flow, and shipping a working system —
+from clean UI to backend logic and data handling.
+Most of my work revolves around **JavaScript-based full-stack development** and
+strengthening my fundamentals through **DSA and system thinking**.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+I care about **clarity over complexity**: readable code, practical architecture,
+and features that actually matter.
+
+---
+
+## 🛠️ Tech I Work With
+
+**Frontend**
+- JavaScript
+- TypeScript
+- React
+- Next.js
+- Tailwind CSS
+
+**Backend**
+- Node.js
+- Express
+- PostgreSQL
+- MongoDB
+- Prisma
+
+**Tools**
+- Git & GitHub
+- Vercel
+- Firebase
+- Figma
+
+---
+
+## 🚀 Selected Projects
+
+### 🔹 Competitive Programming Profile Analyzer
+A full-stack web application that aggregates and analyzes competitive programming
+profiles from **LeetCode, Codeforces, and AtCoder**, with AI-powered insights.
+
+**What I did**
+- Built REST APIs to normalize ratings and contest data
+- Added caching and error handling for reliability
+- Implemented JWT-based authentication and persistent chat history
+
+**Tech**
+MERN · JWT · Google Generative AI · API Caching
+
+🔗 **GitHub:** https://github.com/arsenic-art/Analyzer  
+🌐 **Live Demo:** https://arsenic-cp-analyzer.vercel.app/
+
+---
+
+### 🔹 DreamFundr — Crowdfunding Platform
+A full-stack crowdfunding platform where ideas get funded.
+
+**What I did**
+- Implemented user authentication and campaign creation
+- Integrated secure payments
+- Designed PostgreSQL schemas with validation and transactional consistency
+
+**Tech**
+Next.js · TypeScript · Node.js · Express · PostgreSQL · Prisma · Razorpay
+
+🔗 **GitHub:** https://github.com/arsenic-art/DreamFundr  
+
+---
+
+### 🔹 OneTap — Location-Based Service Platform
+A platform connecting users with nearby mechanics based on location
+and availability.
+
+**What I did**
+- Built role-based access control (users & mechanics)
+- Designed request lifecycle (create, accept, reject)
+- Optimized backend APIs for search and filtering
+- Added email verification and password reset
+
+**Tech**
+React · JavaScript · Node.js · Express · MongoDB · Mongoose · JWT · Resend
+
+🔗 **GitHub:** https://github.com/arsenic-art/One-Tap  
+🌐 **Live Demo:** https://one-tap-gray.vercel.app/
+
+---
+
+## 🎯 Currently Focused On
+
+- Building **production-style full-stack applications**
+- Improving **DSA and core CS fundamentals**
+- Learning **system design and backend scalability**
+
+---
+
+## 📬 Reach Me
+
+- **LinkedIn:** https://linkedin.com/in/piyush-sharma-757585329  
+- **Email:** mailto:piyushsharmaa@yahoo.com  
+- **GitHub:** https://github.com/arsenic-art  
+- **CodeChef:** https://www.codechef.com/users/aka_arsenic  
+- **LeetCode:** https://leetcode.com/u/aka_Arsenic/
+
+---
+
+*Always learning. Always building.*
