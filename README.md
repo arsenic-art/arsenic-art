@@ -1,109 +1,42 @@
-# Hi, I’m Arsenic 👋
+# Hi, I’m Piyush Sharma (aka Arsenic) 👋
 
 I build full-stack products that solve real problems.
+Focused on clean UI, solid backend logic, and systems that actually work.
 
-I enjoy taking an idea, designing the flow, and shipping a working system —
-from clean UI to backend logic and data handling.
-Most of my work revolves around **JavaScript-based full-stack development** and
-strengthening my fundamentals through **DSA and system thinking**.
-
-I care about **clarity over complexity**: readable code, practical architecture,
-and features that actually matter.
+Mostly working with **JavaScript, React, Next.js, and Node.js**, while
+strengthening **DSA and system design fundamentals**.
 
 ---
 
-## 🛠️ Tech I Work With
+## 🛠️ Tech Stack
 
-**Frontend**
-- JavaScript
-- TypeScript
-- React
-- Next.js
-- Tailwind CSS
-
-**Backend**
-- Node.js
-- Express
-- PostgreSQL
-- MongoDB
-- Prisma
-
-**Tools**
-- Git & GitHub
-- Vercel
-- Firebase
-- Figma
+**Frontend:** JavaScript · TypeScript · React · Next.js · Tailwind CSS  
+**Backend:** Node.js · Express · PostgreSQL · MongoDB · Prisma  
+**Tools:** Git · GitHub · Vercel · Firebase · Figma
 
 ---
 
 ## 🚀 Selected Projects
 
-### 🔹 Competitive Programming Profile Analyzer
-A full-stack web application that aggregates and analyzes competitive programming
-profiles from **LeetCode, Codeforces, and AtCoder**, with AI-powered insights.
+### 🔹 Competitive Programming Profile Analyzer  
+Aggregates and analyzes CP profiles (LeetCode, Codeforces, AtCoder) with AI insights.  
+🔗 GitHub: https://github.com/arsenic-art/Analyzer  
+🌐 Live: https://arsenic-cp-analyzer.vercel.app/
 
-**What I did**
-- Built REST APIs to normalize ratings and contest data
-- Added caching and error handling for reliability
-- Implemented JWT-based authentication and persistent chat history
+### 🔹 DreamFundr  
+Crowdfunding platform with authentication and secure payments.  
+🔗 GitHub: https://github.com/arsenic-art/DreamFundr  
 
-**Tech**
-MERN · JWT · Google Generative AI · API Caching
-
-🔗 **GitHub:** https://github.com/arsenic-art/Analyzer  
-🌐 **Live Demo:** https://arsenic-cp-analyzer.vercel.app/
-
----
-
-### 🔹 DreamFundr — Crowdfunding Platform
-A full-stack crowdfunding platform where ideas get funded.
-
-**What I did**
-- Implemented user authentication and campaign creation
-- Integrated secure payments
-- Designed PostgreSQL schemas with validation and transactional consistency
-
-**Tech**
-Next.js · TypeScript · Node.js · Express · PostgreSQL · Prisma · Razorpay
-
-🔗 **GitHub:** https://github.com/arsenic-art/DreamFundr  
+### 🔹 OneTap  
+Connects users with nearby mechanics using a role-based request system.  
+🔗 GitHub: https://github.com/arsenic-art/One-Tap  
+🌐 Live: https://one-tap-gray.vercel.app/
 
 ---
 
-### 🔹 OneTap — Location-Based Service Platform
-A platform connecting users with nearby mechanics based on location
-and availability.
+## 📬 Connect
 
-**What I did**
-- Built role-based access control (users & mechanics)
-- Designed request lifecycle (create, accept, reject)
-- Optimized backend APIs for search and filtering
-- Added email verification and password reset
-
-**Tech**
-React · JavaScript · Node.js · Express · MongoDB · Mongoose · JWT · Resend
-
-🔗 **GitHub:** https://github.com/arsenic-art/One-Tap  
-🌐 **Live Demo:** https://one-tap-gray.vercel.app/
-
----
-
-## 🎯 Currently Focused On
-
-- Building **production-style full-stack applications**
-- Improving **DSA and core CS fundamentals**
-- Learning **system design and backend scalability**
-
----
-
-## 📬 Reach Me
-
-- **LinkedIn:** https://linkedin.com/in/piyush-sharma-757585329  
-- **Email:** mailto:piyushsharmaa@yahoo.com  
-- **GitHub:** https://github.com/arsenic-art  
-- **CodeChef:** https://www.codechef.com/users/aka_arsenic  
-- **LeetCode:** https://leetcode.com/u/aka_Arsenic/
-
----
-
-*Always learning. Always building.*
+- LinkedIn: https://linkedin.com/in/piyush-sharma-757585329  
+- Email: mailto:piyushsharmaa@yahoo.com  
+- CodeChef: https://www.codechef.com/users/aka_arsenic  
+- LeetCode: https://leetcode.com/u/aka_Arsenic
