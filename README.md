@@ -40,3 +40,4 @@ Connects users with nearby mechanics using a role-based request system.
 - Email: mailto:piyushsharmaa@yahoo.com  
 - CodeChef: https://www.codechef.com/users/aka_arsenic  
 - LeetCode: https://leetcode.com/u/aka_Arsenic
+- Resume: https://drive.google.com/file/d/12zipSXDfeX9FOdfweV9YR3MTW-A19elJ/view
