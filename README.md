@@ -26,6 +26,7 @@ Aggregates and analyzes CP profiles (LeetCode, Codeforces, AtCoder) with AI insi
 ### 🔹 DreamFundr  
 Crowdfunding platform with authentication and secure payments.  
 🔗 GitHub: https://github.com/arsenic-art/DreamFundr  
+🌐 Live: https://dream-fundr.vercel.app/
 
 ### 🔹 OneTap  
 Connects users with nearby mechanics using a role-based request system.  
@@ -40,4 +41,4 @@ Connects users with nearby mechanics using a role-based request system.
 - Email: mailto:piyushsharmaa@yahoo.com  
 - CodeChef: https://www.codechef.com/users/aka_arsenic  
 - LeetCode: https://leetcode.com/u/aka_Arsenic
-- Resume: https://drive.google.com/file/d/12zipSXDfeX9FOdfweV9YR3MTW-A19elJ/view
+- Resume: https://drive.google.com/file/d/12zipSXDfeX9FOdfweV9YR3MTW-A19elJ/view?usp=drive_link
